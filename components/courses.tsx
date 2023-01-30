@@ -12,7 +12,7 @@ import {
   const testimonials = [
     {
       name: "Web 3.0 (Blockchain) and Metaverse Specialization",
-  
+      role: "",
       content:
         "This Web 3.0 and Metaverse specialization focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences.",
       avatar:
@@ -20,6 +20,7 @@ import {
     },
     {
       name: "Artificial Intelligence (AI) and Deep Learning Specialization",
+      role: "",
       content:
         "The AI and Deep Learning specialization focuses on building and deploying intelligent APIs using OpenAI models and building custom Deep Learning Tensorflow models.",
       avatar:
@@ -27,6 +28,7 @@ import {
     },
     {
       name: "Cloud-Native Computing Specialization",
+      role: "",
       content:
         "The Cloud-Native Computing Specialization focuses on Containers, Kubernetes, and CDK for Kubernetes.",
       avatar:
@@ -34,6 +36,7 @@ import {
     },
     {
       name: "Ambient Computing and IoT Specialization",
+      role: "",
       content:
         "The Ambient Computing and IoT Specialization focuses on building Smart Homes, Offices, Factories, and Cities using Voice computing, Matter Protocol, and Embedded Devices.",
       avatar:
@@ -41,6 +44,7 @@ import {
     },
     {
       name: "Genomics and Bioinformatics Specialization",
+      role: "",
       content:
         "Genomics is the study of the total genetic makeup of individual organisms, and how this genetic information is structured, functions, and has evolved; bioinformatics encompasses a diverse range of analytical methods and tools applied to genomic data. This Specialization focuses on performing complex bioinformatics analysis using the most essential Python libraries and applications.",
       avatar:
@@ -48,6 +52,7 @@ import {
     },
     {
       name: "Network Programmability and Automation Specialization",
+      role: "",
       content:
         "More than ever, network engineers are finding it challenging to complete their duties entirely manually. Network automation is now crucial due to new protocols, technologies, delivery models, and the requirement for enterprises to become more adaptable and agile. This course teaches network engineers how to automate systems with code using a variety of technologies and tools, including Linux, Python, APIs, and Git.",
       avatar:
