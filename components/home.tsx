@@ -14,6 +14,7 @@ import {
         <Flex p={8} flex={1} align={"center"} justify={"center"}>
           <Stack spacing={6} w={"full"} maxW={"lg"}>
             <Image
+              alt=""
               src="https://www.piaic.org/static/media/Logo.fb7de414.svg"
               width="200px"
               height="200px"
