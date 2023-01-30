@@ -59,13 +59,14 @@ import {
   
   interface TestimonialCardProps {
     name: string;
+    role: string;
     content: string;
     avatar: string;
     index: number;
   }
   
   function TestimonialCard(props: TestimonialCardProps) {
-    const { name, content, avatar} = props;
+    const { name, role, content, avatar} = props;
     return (
       <Flex
         boxShadow={"lg"}
